@@ -13,7 +13,7 @@ main(){
 
     if(txt == "sair"){
       print("Saindo...");
-      isTrue = false;
+      isTrue = false;      
 
     }
     //Mostrar Itens Da Lista
